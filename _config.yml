@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.714482918381691
 color:
   saturation: 0.1530612
   brandStrength: 0.5730397
@@ -21,6 +22,5 @@ color:
     - '#181818'
     - '#606060'
   rhythmicContrast: 0.0596133
-typography_spectrum: 0.714482918381691
-layout_spectrum: 0.9726101
+layout_spectrum: 0.82116
 name: maksbyart

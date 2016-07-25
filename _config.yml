@@ -12,15 +12,15 @@ collections:
       path: '/:title/'
 typography_spectrum: 0.714482918381691
 color:
-  saturation: 0.5373792024329305
-  brandStrength: 0.4881848
-  rhythmicContrast: 0.924138133879751
+  saturation: 0.1530612
+  brandStrength: 0.2142857
+  lightness: 0.2293233
   brandColors:
     - '#FFFFFF'
     - '#909090'
     - '#C0C0C0'
     - '#606060'
     - '#3A3A3A'
-  lightness: 0.6002585925161839
+  rhythmicContrast: 0.0596133
 layout_spectrum: 0.9726101
 name: maksbyart

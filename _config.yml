@@ -1,14 +1,26 @@
-layout_spectrum: 0.22744311415590346
-typography_spectrum: 0.714482918381691
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.09259671322070062
-  lightness: 0.6002585925161839
   saturation: 0.5373792024329305
-  rhythmicContrast: 0.924138133879751
+  brandStrength: 0.4881848
+  lightness: 0.6002585925161839
   brandColors:
-    - '#E8E595'
-    - '#D0A825'
-    - '#40627C'
-    - '#26393D'
-    - '#FFFAE4'
+    - '#FFFFFF'
+    - '#909090'
+    - '#C0C0C0'
+    - '#606060'
+    - '#3A3A3A'
+  rhythmicContrast: 0.924138133879751
+typography_spectrum: 0.714482918381691
+layout_spectrum: 0.2274431141559035
 name: maksbyart

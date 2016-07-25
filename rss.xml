@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[maksbyart]]></title>
+        <description><![CDATA[maksbyart]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Jul 2016 00:26:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sn]]></title>
+            <description><![CDATA[<article><h1>Sn</h1><p>Snizhana</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d9bdd4b-4cd5-470f-b592-4e1d853cfe8d.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d9bdd4b-4cd5-470f-b592-4e1d853cfe8d.jpg</link>
+            <guid isPermaLink="false">e320d0a5-c0fe-49aa-a037-0b241ce76246</guid>
+            <pubDate>Mon, 25 Jul 2016 00:25:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

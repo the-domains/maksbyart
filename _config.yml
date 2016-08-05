@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.714482918381691
 color:
   saturation: 0.1530612
   brandStrength: 0.5730397
-  lightness: 0.2293233
+  rhythmicContrast: 0.0596133
   brandColors:
     - '#D0D0D0'
     - '#808080'
     - '#FEFEFE'
     - '#181818'
     - '#606060'
-  rhythmicContrast: 0.0596133
-layout_spectrum: 0.82116
+  lightness: 0.2293233
+layout_spectrum: 1
 name: maksbyart
